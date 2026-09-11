@@ -942,7 +942,7 @@ Após a publicação, a Landing Page poderá ser acessada diretamente pelo naveg
 🔗 **GitHub Pages:**
 
 ```text
-LINK_DO_GITHUB_PAGES
+https://darknen.github.io/Desafio-1/
 ```
 
 > Este endereço será atualizado após a publicação definitiva.
@@ -956,8 +956,7 @@ O código-fonte do projeto está disponível em:
 **GitHub**
 
 ```text
-https://github.com/Darknen/Projeto-SOS-Security
-```
+https://github.com/Darknen/Desafio-1```
 
 ---
 
@@ -1012,15 +1011,15 @@ https://github.com/Darknen/Projeto-SOS-Security
 
 ## Git e GitHub
 
-- [x ] Confirmar pelo menos 3 commits significativos
-- [ x] Enviar versão final para o GitHub
-- [ x] Confirmar repositório atualizado
+- [x] Confirmar pelo menos 3 commits significativos
+- [x] Enviar versão final para o GitHub
+- [x] Confirmar repositório atualizado
 
 ## GitHub Pages
 
-- [ ] Publicar a versão final
-- [ ] Testar o endereço público
-- [ ] Adicionar o endereço neste README
+- [x] Publicar a versão final
+- [x] Testar o endereço público
+- [x] Adicionar o endereço neste README
 
 ## Inteligência Artificial
 
